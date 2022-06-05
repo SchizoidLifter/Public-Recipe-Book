@@ -3,10 +3,10 @@
 Public Recipe Site
 
 
-Designed so that others can make recipe contributions to the site
+Designed so that others can make recipe contributions to the site in little HTML stuff, nothing too indepth.
 
 
-To be started up
+Inspired by  https://based.cooking/
 
 
 
